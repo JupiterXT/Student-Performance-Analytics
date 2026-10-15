@@ -1,0 +1,41 @@
+assessment_id,course_id,assessment_name,topic
+1,1,Quiz 1,Integers and Rational Numbers
+2,1,Quiz 2,Fractions and Decimals
+3,1,Test 1,Expressions and Order of Operations
+4,1,Test 2,Linear Equations
+5,1,Final Exam ,Pre-Algebra Review
+6,2,Quiz 1,Linear Equations
+7,2,Quiz 2,Systems of Equations
+8,2,Test 1,Quadratic Equations
+9,2,Test 2,Functions
+10,2,Final Exam ,Algebra Review
+11,3,Quiz 1,Angles and Lines
+12,3,Quiz 2,Triangles
+13,3,Test 1,Geometry Proofs
+14,3,Test 2,Circles
+15,3,Final Exam ,Geometry Review
+16,4,Quiz 1,Right Triangle Trigonometry
+17,4,Quiz 2,Unit Circle
+18,4,Test 1,Trigonometric Functions
+19,4,Test 2,Trigonometric Identities
+20,4,Final Exam ,Trigonometry Review
+21,5,Quiz 1,Functions and Graphs
+22,5,Quiz 2,Polynomial Functions
+23,5,Test 1,Exponential and Logarithmic Functions
+24,5,Test 2,Limits
+25,5,Final Exam ,Precalculus Review
+26,6,Quiz 1,Limits and Continuity
+27,6,Quiz 2,Derivatives
+28,6,Test 1,Applications of Derivatives
+29,6,Test 2,Integrals
+30,6,Final Exam ,Calculus Review
+31,7,Practice Test 1,SAT Math - Algebra
+32,7,Practice Test 2,SAT Math - Advanced Math
+33,7,Quiz 1,SAT Math - Problem Solving
+34,7,Practice Test 3,SAT Math - Geometry and Trigonometry
+35,7,Final Practice Exam ,SAT Math Comprehensive
+36,8,Project 1,Python Variables and Data Types
+37,8,Quiz 1,Conditional Statements
+38,8,Quiz 2,Loops
+39,8,Project 2,Lists and Data Structures
+40,8,Final Project,Python Programming Fundamentals
